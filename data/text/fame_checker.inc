@@ -686,7 +686,7 @@ gFameCheckerFlavorText_Saffron0:: @ 0x81AFE68
 gFameCheckerFlavorText_Saffron1:: @ 0x81AFF23
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}"
-	.string "It's out secret prototype MISTER\n"
+	.string "It's our secret prototype MISTER\n"
 	.string "BALL.\p"
 	.string "It will catch any MISTER without\n"
 	.string "fail.$"
