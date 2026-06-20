@@ -73,7 +73,7 @@ script Hospital_Dad {
 	faceplayer
 	textcolor(0)
 	msgbox(
-	"DAD: {PLAYER}!{PAUSE 30} cough…\n"
+	"DAD: {PLAYER}!{PAUSE 30} Cough…\n"
 	"What are you doing here?\p"
 
 	"It seems I caught the flu.\n"
