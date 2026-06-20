@@ -132,7 +132,7 @@ script PokemonIslandLab_Ivy {
         "He's a bit prickly, that one.\n"
         "I don't think he'll donate it.\p"
 
-        "Do you think you could go pursuade\n"
+        "Do you think you could go persuade\n"
         "him to contribute to our cause?", MSGBOX_DEFAULT)
         if(checkitem(ITEM_GS_BALL)) {
             goto(PokemonIslandLab_GSBallCutscene)
