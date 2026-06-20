@@ -126,7 +126,7 @@ script AetherParadise_DMCA_StopsYou {
 	
 	delay(30)
 	msgbox(
-	"ZUBAT: cough…\n"
+	"ZUBAT: Cough…\n"
 	"We… lost…", MSGBOX_DEFAULT)
 	closemessage
 	delay(20)
